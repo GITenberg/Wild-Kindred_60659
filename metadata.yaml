@@ -1,5 +1,5 @@
 _repo: Wild-Kindred_60659
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Copeland, Charles
@@ -12,6 +12,9 @@ contributor:
     birthdate: 1880
     gutenberg_agent_id: '35423'
     url: http://www.gutenberg.org/2009/agents/35423
+covers:
+- cover_type: archival
+  image_path: 60659-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Thompson, Jean M. (Jean May)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '45351'
     url: http://www.gutenberg.org/2009/agents/45351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60659#Wild-Kindred
 gutenberg_issued: '2019-11-09'
 gutenberg_type: Text
 identifiers:
